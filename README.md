@@ -390,7 +390,7 @@ _Libraries and tools for decompiling JVM bytecode._
 - [Procyon](https://github.com/mstrobel/procyon) - Java decompiler and metadata toolkit.
 - [Vineflower](https://github.com/Vineflower/vineflower) - Modern maintained fork of Fernflower.
 
-#### Mono decompiler GUIs
+#### Mono decompiler GUIs (single-engine)
 
 - [JD-GUI](https://github.com/java-decompiler/jd-gui) - Standalone GUI for browsing and decompiling Java class files.
 - [Luyten](https://github.com/deathmarine/Luyten) - Java decompiler GUI built on Procyon.
@@ -401,8 +401,8 @@ _Libraries and tools for decompiling JVM bytecode._
 
 #### Eclipse plugins
 
-- [ECD](https://github.com/nbauma109/ecd) - Eclipse plug-in that integrates multiple decompilers and enables debugging class files without source code.
-- [ECD++](https://github.com/nbauma109/ecd) - Enhanced ECD edition from the same repository with multi-decompiler support and class-file debugging.
+- [ECD](https://ecd-plugin.github.io) - Eclipse Enhanced Class Decompiler plug-in for class file debugging and source lookup.
+- [ECD++](https://github.com/nbauma109/ecd) - Modern fork of ECD that integrates multiple Java decompilers in Eclipse.
 - [JD-Eclipse](https://github.com/java-decompiler/jd-eclipse) - Eclipse plug-in for decompiling Java classes.
 
 #### APIs
