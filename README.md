@@ -390,12 +390,14 @@ _Libraries and tools for decompiling JVM bytecode._
 - [Procyon](https://github.com/mstrobel/procyon) - Java decompiler and metadata toolkit.
 - [Vineflower](https://github.com/Vineflower/vineflower) - Modern maintained fork of Fernflower.
 
-#### Mono decompiler GUIs
+#### GUI
+
+##### Mono-decompiler
 
 - [JD-GUI](https://github.com/java-decompiler/jd-gui) - Standalone GUI for browsing and decompiling Java class files.
 - [Luyten](https://github.com/deathmarine/Luyten) - Java decompiler GUI built on Procyon.
 
-#### Multi-decompiler GUIs
+##### Multi-decompiler
 
 - [JD-GUI-DUO](https://github.com/nbauma109/jd-gui-duo) - Desktop multi-decompiler GUI for browsing and decompiling JVM bytecode and archives.
 
