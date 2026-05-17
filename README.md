@@ -381,14 +381,33 @@ _Libraries related to handling date and time._
 
 _Libraries and tools for decompiling JVM bytecode._
 
+#### APIs
+
+- [transformer-api](https://github.com/nbauma109/transformer-api) - Unified API that exposes multiple decompilers through one in-memory transformation interface.
+
+#### Eclipse plugins
+
+- [ECD](https://github.com/nbauma109/ecd) - Eclipse plug-in that integrates multiple decompilers and enables debugging class files without source code.
+- [ECD++](https://github.com/nbauma109/ecd) - Eclipse plug-in variant of ECD with multi-decompiler support and class-file debugging.
+- [JD-Eclipse](https://github.com/java-decompiler/jd-eclipse) - Eclipse plug-in for decompiling Java classes.
+
+#### Engines
+
 - [CFR](https://github.com/leibnitz27/cfr) - Java decompiler focused on modern language features.
-- [ecd](https://github.com/nbauma109/ecd) - Eclipse plug-in that integrates multiple decompilers and enables debugging class files without source code.
 - [Fernflower](https://github.com/fesh0r/fernflower) - Java decompiler with broad JVM bytecode support.
 - [JADX](https://github.com/skylot/jadx) - Dex to Java decompiler with an integrated GUI.
-- [jd-gui-duo](https://github.com/nbauma109/jd-gui-duo) - Desktop multi-decompiler GUI for browsing and decompiling JVM bytecode and archives.
+- [JD-Core](https://github.com/java-decompiler/jd-core) - Core Java decompiler library.
 - [Procyon](https://github.com/mstrobel/procyon) - Java decompiler and metadata toolkit.
-- [transformer-api](https://github.com/nbauma109/transformer-api) - Unified API that exposes multiple decompilers through one in-memory transformation interface.
 - [Vineflower](https://github.com/Vineflower/vineflower) - Modern maintained fork of Fernflower.
+
+#### Mono decompiler GUIs
+
+- [JD-GUI](https://github.com/java-decompiler/jd-gui) - Standalone GUI for browsing and decompiling Java class files.
+- [Luyten](https://github.com/deathmarine/Luyten) - Java decompiler GUI built on Procyon.
+
+#### Multi-decompiler GUIs
+
+- [JD-GUI-DUO](https://github.com/nbauma109/jd-gui-duo) - Desktop multi-decompiler GUI for browsing and decompiling JVM bytecode and archives.
 
 ### Decentralization
 
