@@ -384,7 +384,7 @@ _Libraries and tools for decompiling JVM bytecode._
 #### Engines
 
 - [CFR](https://github.com/leibnitz27/cfr) - Java decompiler focused on modern language features.
-- [Fernflower](https://github.com/JetBrains/intellij-community/tree/master/plugins/java-decompiler/engine) - Java decompiler with broad JVM bytecode support.
+- [Fernflower](https://github.com/JetBrains/fernflower) - Java decompiler with broad JVM bytecode support.
 - [JADX](https://github.com/skylot/jadx) - Dex to Java decompiler with an integrated GUI.
 - [JD-Core](https://github.com/java-decompiler/jd-core) - Core Java decompiler library.
 - [Procyon](https://github.com/mstrobel/procyon) - Java decompiler and metadata toolkit.
@@ -401,13 +401,17 @@ _Libraries and tools for decompiling JVM bytecode._
 
 #### Eclipse plugins
 
-- [ECD](https://github.com/ecd-plugin/update) - Eclipse Enhanced Class Decompiler plug-in for class file debugging and source lookup.
-- [ECD++](https://github.com/nbauma109/ecd) - Modern fork of ECD that integrates multiple Java decompilers in Eclipse.
+- [ECD](https://github.com/ecd-plugin/ecd) - Eclipse Enhanced Class Decompiler plug-in for class file debugging and source lookup.
+- [ECD++](https://github.com/nbauma109/ecd) - ECD++ - Fork of Enhanced Class Decompiler (incl. JADX and source attach plugin)
 - [JD-Eclipse](https://github.com/java-decompiler/jd-eclipse) - Eclipse plug-in for decompiling Java classes.
 
 #### APIs
 
 - [transformer-api](https://github.com/nbauma109/transformer-api) - Unified API that exposes multiple decompilers through one in-memory transformation interface.
+
+### Command line interface (CLI)
+
+- [jd-cli](https://github.com/intoolswetrust/jd-cli) - jd-cli is a simple command line wrapper around nbauma109/jd-core (fork of the original java-decompiler/jd-core) Java Decompiler project.
 
 ### Decentralization
 
