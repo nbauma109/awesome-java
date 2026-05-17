@@ -384,7 +384,7 @@ _Libraries and tools for decompiling JVM bytecode._
 #### Engines
 
 - [CFR](https://github.com/leibnitz27/cfr) - Java decompiler focused on modern language features.
-- [Fernflower](https://github.com/fesh0r/fernflower) - Java decompiler with broad JVM bytecode support.
+- [Fernflower](https://github.com/JetBrains/intellij-community/tree/master/plugins/java-decompiler/engine) - Java decompiler with broad JVM bytecode support.
 - [JADX](https://github.com/skylot/jadx) - Dex to Java decompiler with an integrated GUI.
 - [JD-Core](https://github.com/java-decompiler/jd-core) - Core Java decompiler library.
 - [Procyon](https://github.com/mstrobel/procyon) - Java decompiler and metadata toolkit.
@@ -401,7 +401,7 @@ _Libraries and tools for decompiling JVM bytecode._
 
 #### Eclipse plugins
 
-- [ECD](https://ecd-plugin.github.io) - Eclipse Enhanced Class Decompiler plug-in for class file debugging and source lookup.
+- [ECD](https://github.com/ecd-plugin/update) - Eclipse Enhanced Class Decompiler plug-in for class file debugging and source lookup.
 - [ECD++](https://github.com/nbauma109/ecd) - Modern fork of ECD that integrates multiple Java decompilers in Eclipse.
 - [JD-Eclipse](https://github.com/java-decompiler/jd-eclipse) - Eclipse plug-in for decompiling Java classes.
 
