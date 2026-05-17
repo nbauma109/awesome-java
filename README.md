@@ -405,11 +405,11 @@ _Libraries and tools for decompiling JVM bytecode._
 - [ECD++](https://github.com/nbauma109/ecd) - ECD++ - Fork of Enhanced Class Decompiler (incl. JADX and source attach plugin)
 - [JD-Eclipse](https://github.com/java-decompiler/jd-eclipse) - Eclipse plug-in for decompiling Java classes.
 
-#### APIs
+#### API
 
 - [transformer-api](https://github.com/nbauma109/transformer-api) - Unified API that exposes multiple decompilers through one in-memory transformation interface.
 
-#### Command line interface (CLI)
+#### CLI
 
 - [jd-cli](https://github.com/intoolswetrust/jd-cli) - jd-cli is a simple command line wrapper around [nbauma109/jd-core](https://github.com/nbauma109/jd-core) (fork of the original [java-decompiler/jd-core](https://github.com/java-decompiler/jd-core)) Java Decompiler project.
 
