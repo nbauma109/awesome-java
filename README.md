@@ -409,9 +409,9 @@ _Libraries and tools for decompiling JVM bytecode._
 
 - [transformer-api](https://github.com/nbauma109/transformer-api) - Unified API that exposes multiple decompilers through one in-memory transformation interface.
 
-### Command line interface (CLI)
+#### Command line interface (CLI)
 
-- [jd-cli](https://github.com/intoolswetrust/jd-cli) - jd-cli is a simple command line wrapper around nbauma109/jd-core (fork of the original java-decompiler/jd-core) Java Decompiler project.
+- [jd-cli](https://github.com/intoolswetrust/jd-cli) - jd-cli is a simple command line wrapper around [nbauma109/jd-core](https://github.com/nbauma109/jd-core) (fork of the original [java-decompiler/jd-core](https://github.com/java-decompiler/jd-core)) Java Decompiler project.
 
 ### Decentralization
 
