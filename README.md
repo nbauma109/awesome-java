@@ -402,7 +402,7 @@ _Libraries and tools for decompiling JVM bytecode._
 #### Eclipse plugins
 
 - [ECD](https://github.com/nbauma109/ecd) - Eclipse plug-in that integrates multiple decompilers and enables debugging class files without source code.
-- [ECD++](https://github.com/nbauma109/ecd) - Eclipse plug-in variant of ECD with multi-decompiler support and class-file debugging.
+- [ECD++](https://github.com/nbauma109/ecd) - Eclipse plug-in variant of ECD in the same repository with multi-decompiler support and class-file debugging.
 - [JD-Eclipse](https://github.com/java-decompiler/jd-eclipse) - Eclipse plug-in for decompiling Java classes.
 
 #### APIs
