@@ -32,6 +32,7 @@ We are evaluating to make this the default, you can provide feedback here in [#1
     - [Data Structures](#data-structures)
     - [Database](#database)
     - [Date and Time](#date-and-time)
+    - [Decompilation](#decompilation)
     - [Decentralization](#decentralization)
     - [Dependency Injection](#dependency-injection)
     - [Development](#development)
@@ -155,14 +156,11 @@ _Libraries to manipulate bytecode programmatically._
 - [bytecode-viewer](https://github.com/Konloch/bytecode-viewer) - Java 8 Jar & Android APK reverse engineering suite. (GPL-3.0-only)
 - [Byteman](https://byteman.jboss.org) - Manipulate bytecode at runtime via DSL (rules); mainly for testing/troubleshooting. (LGPL-2.1-or-later)
 - [cglib](https://github.com/cglib/cglib) - Bytecode generation library.
-- [ECD++](https://github.com/nbauma109/ecd) - Eclipse plug-in that integrates multiple decompilers and enables debugging class files without source code.
 - [Javassist](https://github.com/jboss-javassist/javassist) - Tries to simplify bytecode editing.
-- [jd-gui-duo](https://github.com/nbauma109/jd-gui-duo) - Desktop multi-decompiler GUI for browsing and decompiling JVM bytecode and archives.
 - [Maker](https://github.com/cojen/maker) - Provides low level bytecode generation.
 - [Mixin](https://github.com/SpongePowered/Mixin) - Manipulate bytecode at runtime using real Java code.
 - [Perses](https://github.com/nicolasmanic/perses) - Dynamically injects failure/latency at the bytecode level according to principles of chaos engineering.
 - [Recaf](https://www.coley.software/Recaf/) - JVM reverse engineering toolkit, essentially an IDE for Java bytecode.
-- [transformer-api](https://github.com/nbauma109/transformer-api) - Unified API that exposes multiple decompilers through one in-memory transformation interface.
 
 ### Caching
 
@@ -378,6 +376,19 @@ _Libraries related to handling date and time._
 - [Jollyday](https://github.com/focus-shift/jollyday) - Determines the holidays for a given year, country/name and eventually state/region.
 - [ThreeTen-Extra](https://github.com/ThreeTen/threeten-extra) - Additional date-time classes that complement those in JDK 8.
 - [Time4J](https://github.com/MenoData/Time4J) - Advanced date and time library. (LGPL-2.1-only)
+
+### Decompilation
+
+_Libraries and tools for decompiling JVM bytecode._
+
+- [CFR](https://github.com/leibnitz27/cfr) - Java decompiler focused on modern language features.
+- [ecd](https://github.com/nbauma109/ecd) - Eclipse plug-in that integrates multiple decompilers and enables debugging class files without source code.
+- [Fernflower](https://github.com/fesh0r/fernflower) - Java decompiler with broad JVM bytecode support.
+- [JADX](https://github.com/skylot/jadx) - Dex to Java decompiler with an integrated GUI.
+- [jd-gui-duo](https://github.com/nbauma109/jd-gui-duo) - Desktop multi-decompiler GUI for browsing and decompiling JVM bytecode and archives.
+- [Procyon](https://github.com/mstrobel/procyon) - Java decompiler and metadata toolkit.
+- [transformer-api](https://github.com/nbauma109/transformer-api) - Unified API that exposes multiple decompilers through one in-memory transformation interface.
+- [Vineflower](https://github.com/Vineflower/vineflower) - Modern maintained fork of Fernflower.
 
 ### Decentralization
 
