@@ -381,16 +381,6 @@ _Libraries related to handling date and time._
 
 _Libraries and tools for decompiling JVM bytecode._
 
-#### APIs
-
-- [transformer-api](https://github.com/nbauma109/transformer-api) - Unified API that exposes multiple decompilers through one in-memory transformation interface.
-
-#### Eclipse plugins
-
-- [ECD](https://github.com/nbauma109/ecd) - Eclipse plug-in that integrates multiple decompilers and enables debugging class files without source code.
-- [ECD++](https://github.com/nbauma109/ecd) - Eclipse plug-in variant of ECD with multi-decompiler support and class-file debugging.
-- [JD-Eclipse](https://github.com/java-decompiler/jd-eclipse) - Eclipse plug-in for decompiling Java classes.
-
 #### Engines
 
 - [CFR](https://github.com/leibnitz27/cfr) - Java decompiler focused on modern language features.
@@ -408,6 +398,16 @@ _Libraries and tools for decompiling JVM bytecode._
 #### Multi-decompiler GUIs
 
 - [JD-GUI-DUO](https://github.com/nbauma109/jd-gui-duo) - Desktop multi-decompiler GUI for browsing and decompiling JVM bytecode and archives.
+
+#### Eclipse plugins
+
+- [ECD](https://github.com/nbauma109/ecd) - Eclipse plug-in that integrates multiple decompilers and enables debugging class files without source code.
+- [ECD++](https://github.com/nbauma109/ecd) - Eclipse plug-in variant of ECD with multi-decompiler support and class-file debugging.
+- [JD-Eclipse](https://github.com/java-decompiler/jd-eclipse) - Eclipse plug-in for decompiling Java classes.
+
+#### APIs
+
+- [transformer-api](https://github.com/nbauma109/transformer-api) - Unified API that exposes multiple decompilers through one in-memory transformation interface.
 
 ### Decentralization
 
